@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya Dicky Samudra Alamsyah asal Kota Malang. Saya akan menceritakan dalam bentuk alur kisah saya selama ini.
 
---14 juni 2017
+##14 juni 2017
 Memulai sekolah di Smk Negeri 4 Malang
 
 *Apa saja yang saya pelajari di sekolah? berikut*
