@@ -44,4 +44,15 @@ Memulai pembelajaran baru dan persiapan tugas akhir jurusan di kelas 12.
 * Membuat aplikasi android berjudul penyimpanan gudang dengan java dan database lokal.
 * Mengikuti tes bootcamp di arcademy.
 
+## 4 Mei 2020
+Memulai kerja sebagai Junior Fullstack Engineer.
+
+*Kontribusi apa yang lakukan dan kerjakan selama bekerja di salah satu perusahaan* SINDO LAH.PTE.LTD? *Berikut*
+
+* Mengembangkan aplikasi website yang sebelumnya belum selesai bersama tim(2 orang).
+* Menyempurnakan tampilan UI menjadi lebih baik.
+* Penataan coding dan baris perintah agar bisa dibaca.
+* Pembuatan halaman seller untuk transaksi dan history seller.
+* Perbaikan field database dan pembaharuan data secara berkala.
+
 
