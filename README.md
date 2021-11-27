@@ -20,5 +20,15 @@ Memulai sekolah di Smk Negeri 4 Malang
 * Membuat aplikasi android menggunakan java dan kotlin.
 * Menggunakan android studio dan firebase untuk pembuatan aplikasi android.
 
+## 29 November 2018
+Memulai Magang siswa selama 1 tahun di salah satu PT yaitu PT.AKU PEDULI INDENESIA.
+
+*Apa yang saya pelajari dan kontribusi apa yang saya berikan pada saat saya magang siswa? Berikut*
+
+* Pembautan landing page sederhana untuk promosi kopi.
+* Pembuatan Website kasir warung dan restaurant seperti pawoon.
+* Membuat website bersama 2 orang 1 tim bagian backend developer.
+* Membuat website berbasi framework django dan bahasa pemrograman python disertai database postgresql.
+* Membuat ide fitur pada tim mengenai tampilan dan UX.
 
 
